@@ -1,0 +1,46 @@
+body{
+    background-color:bisque;
+}
+#Header a:hover{
+    color: blue;
+
+}
+#bg-img{
+    background: url('profile.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+
+}
+#About{
+    margin-top: -200px;
+
+}
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+#About hr{
+    border-width: 4px;
+    margin-top: 5px;
+}
+#index span{
+    padding: 10px 20px 10px 20px;
+
+}
+#index hr{
+    border-width: 4px;
+    margin-top: 5px;
+
+}
+#contact span{
+    padding: 10px 20px 10px 20px;
+}
+#contact hr{
+    border-width: 4px;
+    margin-top: 5px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
