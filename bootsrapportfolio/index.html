@@ -200,34 +200,39 @@
     </div>
     <div id="contact">
         <div class="container mt-5">
-            <span class="bg-dark text-white">contact me</span> <hr class="bg-dark">
+            <span class="bg-dark text-white">contact me</span>
+             <hr class="bg-dark">
             <div class="row">
                 <div class="col">
-                    <div class="card bg-white">
+                    <div class="card bg-transparent">
                         <div class="card-header">
-                            <h5>Contact me through this details</h5>
+                            <h5>Contact me with your details</h5>
                         <div class="form-group mt-5">
-                            <input type="text" placeholder="User name" class="form-control mx-2">
+                            <input type="text" placeholder="Full name" class="form-control mx-2">
                         
                         </div>
                         <div class="form-group mt-5">
                             <input type="text" placeholder="Email" class="form-control mx-2">
                             
                         </div>
-                        <div class="form-group mt-5">
+                        <div class="form-group mt-5 mx-2 ">
                             <textarea class="form-comtrol" placeholder="Please feel free to write down here!!!!!!"></textarea>
                             
                         </div>
                         <div class="form-group">
-                            
-                                <button onclick="myFunction()">Click me</button>
-                                <script>
-                                    function myFunction() {
-  document.getElementById("demo").innerHTML = "message sent";
-}
-                                </script>
-        
-
+                            <!--creating a button with id and using bit of a javascript to write the message send -->
+                            <button id="demo" onclick="myFunction()">
+                                Click me
+                            </button>
+                            <script>
+                                // made a arrow function
+                                // the onclick function call is on the myfunction attribute
+                                const myFunction = (e) => {
+                                    document.getElementById("demo").innerHTML = "message sentsuccessfully";
+                                }
+                            </script>
+                        
+                        
                         </div>
                         </div>
 
@@ -236,6 +241,7 @@
             </div>
         </div>
     </div>
+    <!--this is the footer are and I have added random picrures-->
     <hr class="badge-primary mt-5"
     <footer class="container bg-dark">
         <div class="row">
