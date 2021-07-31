@@ -6,7 +6,7 @@ body{
 
 }
 #bg-img{
-    background: url('profile.jpg');
+    background: url('images/profile.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     min-height: 500px;
@@ -38,6 +38,11 @@ body{
 #contact hr{
     border-width: 4px;
     margin-top: 5px;
+}
+.image{ 
+    height:250px; 
+    width: 250px; 
+    border-radius: 100%;
 }
 
 .responsive {
