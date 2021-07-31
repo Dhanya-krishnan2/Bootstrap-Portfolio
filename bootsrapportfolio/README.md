@@ -5,4 +5,4 @@ I have added the images and added the resume to have look with.
 
 
 This is my deployed link of my portfolio:
-https://dhanya-krishnan2.github.io/bootsrapportfolio/
+https://dhanya-krishnan2.github.io/Bootstrap-Portfolio/
