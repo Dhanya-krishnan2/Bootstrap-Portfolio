@@ -1,5 +1,8 @@
 # bootsrapportfolio
-This my portfolio by using HTML, CSS, and bootsrap I added resposive layout and responsive images as well. This was very a good project.
-Nav link working as per required and used images which is working responsively, I used lots of html tags, css properties and bootstrap as well to make it responsive and looks attractive.
+This is portfolio website which is having minimum functionality by using HTML, CSS, AND BOOTSTRAP . 
+I have used the built in classes of bootstrap and which helps me to use less css customisation. That is the way I can maintain my code to minimum. 
+I have added the images and added the resume to have look with.
+
+
 This is my deployed link of my portfolio:
 https://dhanya-krishnan2.github.io/bootsrapportfolio/

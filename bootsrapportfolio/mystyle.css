@@ -1,8 +1,8 @@
 body{
-    background-color:bisque;
+    background-color:rgba(255, 228, 196, 0.616);
 }
 #Header a:hover{
-    color: blue;
+    color: rgba(255, 81, 0, 0.952);
 
 }
 #bg-img{
